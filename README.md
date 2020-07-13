@@ -1,8 +1,8 @@
 # TinDog :dog:
 
-A house is never lonely where a loving dog waits :house::heart_eyes:
+A house:house: is never lonely where a loving dog waits:heart_eyes:
 
-Here's the website for Tindog, a place to meet new and interesting dogs nearby.:heart:.This is just a template with HTML, CSS and Javascript.:smiley:
+This website is a place to meet new and interesting dogs nearby.:heart:.This is just a template with HTML, CSS and Bootstrap.:smiley:
 
 Here's a look:point_down::heart_eyes_cat:
 
